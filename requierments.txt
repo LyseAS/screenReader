@@ -1,0 +1,13 @@
+click==7.1.2
+flake8==3.8.4
+joblib==1.0.0
+mccabe==0.6.1
+nltk==3.5
+numpy==1.19.5
+Pillow==8.1.0
+pycodestyle==2.6.0
+pyflakes==2.2.0
+pytesseract==0.3.7
+regex==2020.11.13
+textblob==0.15.3
+tqdm==4.56.0
